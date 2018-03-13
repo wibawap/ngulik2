@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="193" started-at="2018-03-13T08:08:52Z" finished-at="2018-03-13T08:08:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="193" started-at="2018-03-13T08:08:52Z" finished-at="2018-03-13T08:08:52Z">
+      <class name="test2.NginxTest">
+        <test-method status="PASS" signature="readConf()[pri:0, instance:test2.NginxTest@6d8a00e3]" name="readConf" is-config="true" duration-ms="17" started-at="2018-03-13T15:08:52Z" finished-at="2018-03-13T15:08:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConf -->
+        <test-method status="PASS" signature="checkPage()[pri:0, instance:test2.NginxTest@6d8a00e3]" name="checkPage" duration-ms="127" started-at="2018-03-13T15:08:52Z" finished-at="2018-03-13T15:08:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPage -->
+        <test-method status="PASS" signature="checkPort()[pri:0, instance:test2.NginxTest@6d8a00e3]" name="checkPort" duration-ms="18" started-at="2018-03-13T15:08:52Z" finished-at="2018-03-13T15:08:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPort -->
+      </class> <!-- test2.NginxTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
