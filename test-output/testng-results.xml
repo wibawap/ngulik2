@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="50659" started-at="2018-03-14T01:11:31Z" finished-at="2018-03-14T01:12:22Z">
+  <suite name="Suite" duration-ms="146552" started-at="2018-03-14T06:45:26Z" finished-at="2018-03-14T06:47:52Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="50659" started-at="2018-03-14T01:11:31Z" finished-at="2018-03-14T01:12:22Z">
+    <test name="Test" duration-ms="146552" started-at="2018-03-14T06:45:26Z" finished-at="2018-03-14T06:47:52Z">
       <class name="test.JPTest">
-        <test-method status="PASS" signature="readConfig()[pri:0, instance:test.JPTest@5a42bbf4]" name="readConfig" is-config="true" duration-ms="16" started-at="2018-03-14T08:11:31Z" finished-at="2018-03-14T08:11:31Z">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:test.JPTest@5a42bbf4]" name="readConfig" is-config="true" duration-ms="37" started-at="2018-03-14T13:45:26Z" finished-at="2018-03-14T13:45:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- readConfig -->
-        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:test.JPTest@5a42bbf4]" name="setupBrowser" is-config="true" duration-ms="6090" started-at="2018-03-14T08:11:31Z" finished-at="2018-03-14T08:11:37Z">
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:test.JPTest@5a42bbf4]" name="setupBrowser" is-config="true" duration-ms="5668" started-at="2018-03-14T13:45:26Z" finished-at="2018-03-14T13:45:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupBrowser -->
-        <test-method status="PASS" signature="jobsTest()[pri:0, instance:test.JPTest@5a42bbf4]" name="jobsTest" duration-ms="15567" started-at="2018-03-14T08:11:37Z" finished-at="2018-03-14T08:11:53Z">
+        <test-method status="PASS" signature="jobsTest()[pri:0, instance:test.JPTest@5a42bbf4]" name="jobsTest" duration-ms="14238" started-at="2018-03-14T13:45:31Z" finished-at="2018-03-14T13:45:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- jobsTest -->
-        <test-method status="PASS" signature="newsTest()[pri:0, instance:test.JPTest@5a42bbf4]" name="newsTest" duration-ms="28950" started-at="2018-03-14T08:11:53Z" finished-at="2018-03-14T08:12:22Z">
+        <test-method status="PASS" signature="newsTest()[pri:0, instance:test.JPTest@5a42bbf4]" name="newsTest" duration-ms="126590" started-at="2018-03-14T13:45:46Z" finished-at="2018-03-14T13:47:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- newsTest -->
